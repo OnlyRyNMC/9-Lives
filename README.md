@@ -11,6 +11,9 @@ So watch out and make sure to **communicate with your team-mate** as you both **
 So what are you waiting for?   
 Grab a **Friend** or a **Family Member** or even your **favourite Pet Cat** and **Play 9Lives Now** to see if you both have what it takes to **triumph** the **brutal 9 Waves that lie ahead**.  
 
+## Video Walkthrough: ##
+https://youtu.be/HVFLY-af9fA
+
 ## **Assets used in Project:**
 - xelu (2014), "FREE Keyboard and controllers prompts pack" [online], OpenGameArt.org,      
 Available at: https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack,  
